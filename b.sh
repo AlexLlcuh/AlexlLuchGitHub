@@ -1,3 +1,4 @@
+#!/bin/bash
 file=file "Matriculas.txt"
 
 if [ -f "$file" ]; then

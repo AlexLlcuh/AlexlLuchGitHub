@@ -1,4 +1,3 @@
-
 echo "Introduce el número de llamadas que realizarás:"
 read num_llamadas
 
